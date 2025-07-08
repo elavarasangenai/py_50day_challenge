@@ -26,10 +26,12 @@ ___________________________________________
 
 *Task*
 OpenAI API Key purchase
+Offline Meeting 
 
 *📅 Python 50-Day Challenge*
 ✅ Day 4 – Age Category
 ✅ Day 5 – Shopping Bill
+✅ Day 6 – NumberComparison
 
 
 
