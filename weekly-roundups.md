@@ -43,13 +43,16 @@ Here I updated the GITHUB code
 
 You are an python and streamlit expert
 
-write a python and streamlit program for Take a full name and display it in different formats (Last, First etc.).
+write a python and streamlit program for Reverse individual words in a sentence..
 
-get the string and show first name, last name, upper case, lower case, camel case
+get the sentence and reverse individual word
 
+Few Shots
+I Love Social Eagle
+output: I evol laicos elgae
 
 Report
-Create a folder name as Day14-NameFormatter. and create file as NameFormatter.py to update the code
+Create a folder name as Day16-WordReverser. and create file as WordReverser.py to update the code
 Properly commend the code step by step
 
 
