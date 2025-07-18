@@ -17,7 +17,7 @@ for i in range(5):
     user_names.append(user_name)
 
 if all(user_names):
-    st.write("Names and their lengths:")
+    st.write("Names and their length:")
     for name in user_names:
         st.write(f"Name is {name} and length is {len(name)}.")
 else:

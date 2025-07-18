@@ -43,15 +43,14 @@ Here I updated the GITHUB code
 
 You are an python and streamlit expert
 
-write a python program Store 5 names in a list and print them with their lengths.
+write a python and streamlit program for Take a full name and display it in different formats (Last, First etc.).
 
-get 5 user input using streamlit userinput and print the name and length.
+get the string and show first name, last name, upper case, lower case, camel case
 
-fewshots:
-for example : get 5 user input like Elaa, Thendral, Manju, Rajan, Karthi. and output is Name is Elaa and length is 4. like this generate for 5 users
 
 Report
-Create a folder name as Day10-NameListLength. and create file as NameList.py to update the code
+Create a folder name as Day14-NameFormatter. and create file as NameFormatter.py to update the code
+Properly commend the code step by step
 
 
 
